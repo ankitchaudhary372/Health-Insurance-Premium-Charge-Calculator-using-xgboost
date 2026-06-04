@@ -88,8 +88,8 @@ Insurance-Cost-Prediction/
 
 | Metric   | Score |
 | -------- | ----- |
-| R² Score | 0.835 |
-| MAE      | 3812  |
+| R² Score | 0.98 |
+| MAE      | 260  |
 
 The model explains approximately **83.5% of the variance** in insurance costs.
 
